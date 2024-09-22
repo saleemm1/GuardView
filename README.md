@@ -13,7 +13,7 @@ GuardView is a real-time security analysis tool that integrates with the Interse
 
 
 ## System Requirements
-1- Python 3.x
-2- Python Libraries
-3- Slither for smart contract analysis
-4- Mythril for security analysis
+- Python 3.x
+- Python Libraries
+- Slither for smart contract analysis
+- Mythril for security analysis
